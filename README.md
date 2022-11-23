@@ -1,4 +1,3 @@
-# mc
-⛏️ Site serveur Minecraft
+# /mc
 
-[tbcraft](https://theob.fr/mc)
+⛏️ [tbcraft](https://theob.fr/mc)
